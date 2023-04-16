@@ -8,7 +8,7 @@
  </p> 
 <br> 
 
-- 🌱 I’m currently learning **Data Analysis**&nbsp;<br> 
+- 🌱 I’m currently learning **Data Analysis**<br> 
          
          
 <h3 align="left">Languages and Tools:</h3>
