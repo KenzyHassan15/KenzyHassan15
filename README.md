@@ -9,7 +9,7 @@
  </p> 
 <br> 
 
-- 🌱 I’m currently learning **ML & DL**&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  <br> 
+- 🌱 I’m currently learning **Data Analysis**&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  <br> 
 
 
 <h1 align="left">💬 Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h1> 
