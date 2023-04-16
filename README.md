@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FlvLaG5hPCncAAAAC%2Fdata-analysis.gif&tbnid=LyUKY6Y9XB3eZM&vet=12ahUKEwig_LeGpK3-AhXAnCcCHWkHB08QMygCegUIARD3AQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fdata-analysis-graph-chart-gif-23151718&docid=n8T853HzGr4JbM&w=498&h=373&q=animated%20data%20analysis%20gif&ved=2ahUKEwig_LeGpK3-AhXAnCcCHWkHB08QMygCegUIARD3AQ)]
+[![MasterHead](https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif)]
 <h1 align="center">Hi 👋, I'm Kenzy Hassan Gomaa</h1>
 <h3 align="center">A passionate Data Scientist & Python language Enthusiast from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
