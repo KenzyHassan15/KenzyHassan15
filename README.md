@@ -1,18 +1,20 @@
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FlvLaG5hPCncAAAAC%2Fdata-analysis.gif&tbnid=LyUKY6Y9XB3eZM&vet=12ahUKEwig_LeGpK3-AhXAnCcCHWkHB08QMygCegUIARD3AQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fdata-analysis-graph-chart-gif-23151718&docid=n8T853HzGr4JbM&w=498&h=373&q=animated%20data%20analysis%20gif&ved=2ahUKEwig_LeGpK3-AhXAnCcCHWkHB08QMygCegUIARD3AQ)]
+<h1 align="center">Hi 👋, I'm Kenzy Hassan Gomaa</h1>
+<h3 align="center">A passionate Data Scientist & Python language Enthusiast from Egypt</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-<div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%edb0fc&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Kenzy+Hassan+Gomaa+%F0%9F%91%8B;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" /> 
-     </div> 
-<p> 
-   <em> 
-     I'm a 3rd year student in the faculty of computer and information science in Mansoura University 
- </p> 
-<br> 
+- 🔭 I’m currently student in **Mansoura University**
 
-- 🌱 I’m currently learning **Data Analysis**<br> 
-         
-         
+- 🌱 I’m currently learning **Data Analysis**
+
+- 💬 Ask me about **Python , Jupyter , Tableau**
+
+- 📫 How to reach me **kenzyhassan@std.mans.edu.eg**
+
+- ⚡ Fun fact **I am Funny**    
+
+    
 <h3 align="left">Languages and Tools:</h3>
-
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
