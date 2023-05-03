@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently student in **Mansoura University**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Machine Learning*
 
 - 💬 Ask me about **Python , Jupyter , Tableau**
 
